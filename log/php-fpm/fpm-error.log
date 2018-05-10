@@ -1,0 +1,4 @@
+[10-May-2018 04:07:34] NOTICE: fpm is running, pid 1
+[10-May-2018 04:07:34] NOTICE: ready to handle connections
+[10-May-2018 04:09:27] WARNING: [pool www] child 5 said into stderr: "ERROR: Unable to open primary script: /usr/share/nginx/html/index.php (No such file or directory)"
+[10-May-2018 04:09:29] WARNING: [pool www] child 6 said into stderr: "ERROR: Unable to open primary script: /usr/share/nginx/html/index.php (No such file or directory)"
